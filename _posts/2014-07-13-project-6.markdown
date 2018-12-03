@@ -7,9 +7,7 @@ date: 2018-12-03
 img: graylog_thumbnail.png
 thumbnail: graylog_thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Log maganger
+description: Para começar a trabalhar o Graylog, primeiro temos que entender o que são LOGs e para que eles servem. Log nada mais são do que registros de atividades, gerados por programas e ou serviços de um dispositivo, seja ele um servidor, uma estação, um Switch, um roteador e etc. <a href="https://www.linkedin.com/pulse/gerenciando-logs-com-graylog-jeferson-araujo/" target="_blank"> Leia+.</a>.
 
 ---

@@ -1,15 +1,13 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: O Que é Business Intelligence ?
+subtitle: Conhecendo inteligencia dos Negocios
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+modal-id: 6
+date: 2018-12-03
+img: bi.jpeg
+thumbnail: bi.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: bi
+description: Business Intelligence (BI) ou em português, Inteligência de Negócios, é um termo abrangente destinado a cobrir todas as atividades necessárias para que uma empresa transforme dados brutos em conhecimento acionável. Em outras palavras, são esforços da empresa para entender o que sabe e o que não sabe de sua própria existência e operações. O objetivo final é ser capaz de aumentar os lucros e aprimorar sua vantagem competitiva. <a href="https://www.linkedin.com/pulse/o-que-%C3%A9-business-intelligence-jeferson-araujo/" target="_blank"> Leia+.</a>.
 
 ---
